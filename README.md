@@ -20,7 +20,7 @@ Adds the ability to automatically ban users after X number or warnings.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/autoban/workflows/Tests/badge.svg)](https://github.com/KaileySnay/autoban/actions)
+master: [![Build Status](https://github.com/kaileysnay/autoban/workflows/Tests/badge.svg)](https://github.com/kaileysnay/autoban/actions)
 
 ## License
 
